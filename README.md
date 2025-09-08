@@ -31,3 +31,4 @@ README.md
 2. Use navigation bar to move between Home and Articles.  
 
 3. Resize browser window to test responsiveness and see animations.
+
