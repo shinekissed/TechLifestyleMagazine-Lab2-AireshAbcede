@@ -2,7 +2,7 @@ README.md
 
 # Tech & Lifestyle Weekly Magazine - Lab 2  
 
-**Name:** Airesh Shine A. Abcede 
+**Name:** Airesh Shine A. Abcede
 **Student ID:** 2024302255  
 
 ## Design Choices  
@@ -29,4 +29,5 @@ README.md
 ## How to View  
 1. Open `index.html` in a browser.  
 2. Use navigation bar to move between Home and Articles.  
+
 3. Resize browser window to test responsiveness and see animations.
